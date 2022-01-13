@@ -1,0 +1,27 @@
+<html>
+        <head>
+              <style>
+              
+              body {background-color: steelblue;}
+              
+              h1   {color: ghostwhite;
+              font-family: verdana;
+              font-size: 300%;
+              padding-left: 250px;
+              padding-top: 50px;
+              }
+
+
+
+
+              </style>
+        </head>
+<body>
+
+<h1>Dogs<h1>
+
+Dog pic link https://qph.fs.quoracdn.net/main-qimg-20ccecefbac81feaafe5cc4ab19ded21
+
+
+</body>
+</html>
