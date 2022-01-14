@@ -4,14 +4,19 @@
               
               body {background-color: steelblue;}
               
+              img{padding-left:75px;}
+              
               h1   {color: ghostwhite;
               font-family: verdana;
               font-size: 300%;
-              padding-left: 250px;
+              padding-left: 0px;
               padding-top: 50px;
               }
-
-
+              p{color: black;
+              font-family:;
+              padding-left:;
+              }
+             
 
 
               </style>
@@ -19,8 +24,8 @@
 <body>
 
 <h1>Dogs<h1>
-
-Dog pic link https://qph.fs.quoracdn.net/main-qimg-20ccecefbac81feaafe5cc4ab19ded21
+<img src="https://qph.fs.quoracdn.net/main-qimg-20ccecefbac81feaafe5cc4ab19ded21" alt="Every Dog">
+<h4>Dogs are domesticated animals that descended from wolves thousands of years ago. Dogs are no common pets and companions to humans. The are a total of 339 different dog breeds. There is an estimated over 63 million dog owners in the United States. Dogs are better than cats.</h4>
 
 
 </body>
